@@ -48,3 +48,11 @@ I would like to recommend few sports to play when you are free.
 |                   | own pace, making it accessible to      |                      |
 |                   | individuals of all fitness levels.     |                      |
 
+---
+
+### Quotes By Scientists
+>* "Science is not only a disciple of reason but, also, one of romance and passion."
+   *Stephen Hawking*
+
+>* “In science, there are no shortcuts to truth.”
+   *Carl Sagan*
