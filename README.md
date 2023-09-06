@@ -12,3 +12,4 @@ Denver, the capital of Colorado, is an American metropolis dating to the Old Wes
 ### Dishes of food
 - **Green Chile:**
 - **Rocky Mountain Oysters:**
+[MyStats](MyStats.md);
